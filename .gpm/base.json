@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/buzz/buzz-intern-server/money/__services__/chase/.gpm/base.json",
+    "gpm_path": "/var/projects/buzz/buzz-intern-server/money/__services__/chase/.gpm",
+    "name": "dj-chase",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/dj-chase.git",
+    "root_path": "/var/projects/buzz/buzz-intern-server/money/__services__/chase"
+}
